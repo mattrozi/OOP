@@ -10,8 +10,7 @@ register –
 • Sophomores – 4/7 thru 4/9
 • Freshmen – 4/10 thru 4/12
 • Create a method to return the age and another method to return 
-the registration dates.
-
+the registration dates
 """
 
 

@@ -16,5 +16,7 @@ def main():
     print(Galaxy.get_model())
     print(Galaxy.get_retail_price())
 
+    print(Galaxy)
+
 
 main()

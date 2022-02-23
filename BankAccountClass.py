@@ -32,4 +32,4 @@ class BankAccount:
         return self.__balance
 
     def __str__(self):
-        return "The balance is $" + format(self.__balance, ",.2f")
+      return "The balance is $" + format(self.__balance, ",.2f")
